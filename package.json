@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-alejo",
+  "version": "0.0.1",
+  "description": "My first nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasmo2/nodejs-makeitreal.git"
+  },
+  "keywords": [
+    "node",
+    "package"
+  ],
+  "author": "Alejo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasmo2/nodejs-makeitreal/issues"
+  },
+  "homepage": "https://github.com/jasmo2/nodejs-makeitreal#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
